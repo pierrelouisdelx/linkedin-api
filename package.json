@@ -1,18 +1,18 @@
 {
-  "name": "linkedin-api",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.7.9"
-  },
-  "devDependencies": {
-    "typescript": "^5.7.3"
-  }
+    "name": "linkedin-post-reaction-api",
+    "version": "1.0.0",
+    "description": "A client for the LinkedIn Post and Reaction API",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.7.9"
+    },
+    "devDependencies": {
+        "typescript": "^5.7.3"
+    }
 }
