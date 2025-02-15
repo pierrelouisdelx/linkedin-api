@@ -9,7 +9,7 @@ handling reactions.
 To install the package, run:
 
 ```bash
-npm install linkedin-api-client
+npm install linkedin-post-reaction-api
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm install linkedin-api-client
 First, import the necessary classes from the package:
 
 ```typescript
-import { PostAPI, ReactionAPI } from 'linkedin-api-client';
+import { PostAPI, ReactionAPI } from 'linkedin-post-reaction-api';
 ```
 
 ### Initializing the API Clients
@@ -96,7 +96,7 @@ postAPI
     });
 ```
 
-#### Deleting a Post
+linkedin-post-reaction-api
 
 To delete a post, use the `deletePost` method:
 
